@@ -1,1 +1,1 @@
-# DSA-mini-project-restaurant-management-system-
+# DSA-project-restaurant-management-system-
